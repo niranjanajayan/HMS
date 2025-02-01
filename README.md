@@ -42,24 +42,20 @@ BMI of a person having over weight
 ![IMG_20250201_154726](https://github.com/user-attachments/assets/11666e51-0eff-482e-b2a9-bd3b944b2ad5)
 
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Screenshot 2025-02-01 163045](https://github.com/user-attachments/assets/4815965a-9d76-4222-8ad8-4b494bb664ab)
+build photo
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot 2025-02-01 163201](https://github.com/user-attachments/assets/f41feed2-8a6a-436a-9546-aed73510c833)
+final build photo
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/7628729f-ab1a-4b6f-a7ad-ea5ac1254612
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aiswarya S Nair: CSS, JavaScript
+- Niranjana C Jayan: HTML, CSS
+
 
 ---
 Made with ❤️ at TinkerHub
