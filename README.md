@@ -10,7 +10,7 @@
 - Niranjana C Jayan - CET Trivandrum
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://niranjanajayan.github.io/HMS/
 
 ### Project Description
 A BMI (Body Mass Index) Calculator project is a simple application designed to calculate an individual's BMI based on their height and weight. The BMI is a commonly used indicator to assess whether a person has a healthy weight for a given height. It helps identify if someone is underweight, normal weight, overweight, or obese.
@@ -28,34 +28,19 @@ For Hardware:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![normal weight](https://github.com/user-attachments/assets/7bd412a0-3c06-4e06-8967-d52a77e4a72f)
+BMI of a person having normal weight
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![under weight](https://github.com/user-attachments/assets/f537894c-884d-4209-a899-3e8cf335cc47)
+BMI of a person having under weight
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![over weight](https://github.com/user-attachments/assets/e76bc200-75bd-4680-9ba9-0033711c7bc8)
+BMI of a person having over weight
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![IMG_20250201_154726](https://github.com/user-attachments/assets/11666e51-0eff-482e-b2a9-bd3b944b2ad5)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
